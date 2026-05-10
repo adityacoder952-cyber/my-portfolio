@@ -23,7 +23,7 @@
 
 <meta property="og:type" content="website">
 
-<meta property="og:image" content="https://images.unsplash.com/photo-1498050108023-c5249f4df085">
+<meta property="og:image" content="https://images.unsplash.com/photo-1498050108023-c5249f4df085"> 
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
